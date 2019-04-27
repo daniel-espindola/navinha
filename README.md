@@ -1,6 +1,6 @@
 # Navinha
 
-Bullethell de naves feito para estudar colisões em jogos 2d.
+Bullethell simples de naves feito para estudar colisões em jogos 2d.
 
 ## Getting Started
 
